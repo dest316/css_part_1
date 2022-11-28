@@ -1,0 +1,61 @@
+.mainBlock {
+    overflow: hidden;
+    width: 1200px;
+    background-color: red;
+    margin: 0 auto;
+}
+.textBlock {
+    overflow: hidden;
+    text-align: center;
+    background-color: yellow;
+    width: 100%;
+    display: inline-block;
+}
+
+.text {
+    display: inline-block;
+    border: solid thin red;
+    margin: 0 auto;
+    padding: 5px;
+    text-align: center;
+}
+
+.imgBlock {
+    overflow: hidden;
+    background: white;
+    text-align: center;
+}
+img {
+    width: 32%;
+    padding: 0px;
+    border: solid red 1px;
+    margin: 0 auto;
+}
+
+
+
+.interText {
+    margin: 5px auto;
+    overflow: hidden;
+    background-color: pink;
+    width: 100%;
+}
+
+.footerBlock {
+    overflow: hidden;
+    text-align: center;
+    background-color: purple;
+    width: 100%;
+    display: inline-block;
+
+}
+.footerContent {
+    display: inline-block;
+    border: solid thin red;
+    margin: 0 px;
+    padding: 0 px;
+    text-align: center;
+    width: 48%;
+    background-color: yellow;
+    vertical-align: middle;
+}
